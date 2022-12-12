@@ -1,7 +1,7 @@
 ## Software requirements / Various sub components
 
 The project which is still in its developing stage will require several software platforms to achieve its success.
-1. # PEBL The primary software around which the project revolves around is PEBL (The Psychology Experiment
+1. **PEBL The primary software around which the project revolves around is PEBL (The Psychology Experiment
 Building Language). PEBL offers a simple programming language tailor-made for creating and conducting
 many standard experiments. It is Free software, licensed under the GPL, with both the compiled executables
 and source code available without charge.
