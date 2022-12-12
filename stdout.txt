@@ -1,0 +1,7 @@
+SUCCESS at getting display mode?:0
+1280,720,60
+Initializing 1280--720
+Driver name (0): direct3d
+Driver name (1): opengl
+Driver name (2): opengles2
+Driver name (3): software
