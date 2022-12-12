@@ -8,7 +8,7 @@ and source code available without charge.
 2. **GOOGLE** FORMS Initial collection of data using the battery features that we created using PEBL will be
 collected using Google forms or excel sheets to use for clustering and ML modelling. It is planned to collect
 psychometric data from all the students of our university and from the surroundings.
-3. **PYTHON** LIBRARIES AND MODULES After collection of data, the next major step of our project is
+3. **PYTHON LIBRARIES AND MODULES** After collection of data, the next major step of our project is
 to pre process the data, cleaning it, removing the outliers. Then we need to apply preferrable Machine Learning
 clustering or grouping algorithms like random forests to group the responses of the data we have. This grouping
 is mainly done to grade each cluster according to the recommended scales of depression prescribed by NIMHS.
