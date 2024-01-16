@@ -1,40 +1,35 @@
-# Mental Health Analysis and Awareness
+# Mental Health Analysis Repository
 
-Welcome to our Mental Health Analysis repository! This project focuses on raising awareness about mental health, especially for individuals who may not be fully aware of the seriousness of their situation. We aim to build a model and eventually a working web application that groups people according to their mental states. The primary objective is to provide support and guidance through an automated chatbot or other means, tailored to individual needs.
-
-## Why Mental Health Matters
-
-Many individuals with depression may attempt to conceal their symptoms, and some may not even recognize that they are experiencing depression. While well-known signs like sadness and hopelessness are easily recognizable, there are also hidden signs that might go unnoticed.
-
-## Project Highlights
-
-- **Model Development**: We have developed a model using the PEBL framework and C++ to classify individuals based on their mental states.
-
-- **General Mental Health Analysis**: Through extensive test batteries, we have conducted a general mental health analysis, achieving an accuracy rate of 89%.
-
-## How It Works
-
-Our model employs advanced techniques to classify individuals into different mental health categories. The insights gained from the analysis can be crucial in understanding the severity of the situation.
-
-## Future Goals
-
-The ultimate goal is to create a web application that not only classifies individuals but also provides tailored solutions. This could include an automated chatbot or other forms of guidance to support individuals in improving their mental well-being.
+Welcome to the Mental Health Analysis repository! This project aims to provide insights into mental health states using a 
+classification model and surveys. Our goal is to raise awareness and offer support to individuals facing mental health challenges.
 
 ## Repository Contents
 
-- `Model_Development/`: Contains the code and documentation related to the development of the mental health classification model.
+- **`images/`**: This folder contains test images used for the mental health analysis.
+- **`output/`**: Explore this folder to find CSV files containing classified emotions based on the analysis.
+- **`survey/`**: Contains the `survey.pbl.schma` file, which is the schema file for the mental health survey.
+- **`problem_statement.pdf`**: Detailed problem statement outlining the objectives and scope.
+- **`software_requirements.txt`**: File specifying the software requirements for running the model and survey.
+- **`questions_for_survey.csv`**: CSV file with questions designed for the mental health survey.
+- **`Few pebl_files`**: Three PEBL files representing additional scripts and data used in the mental health analysis.
 
-- `Mental_Health_Analysis/`: Includes the details of the general mental health analysis, test batteries used, and the achieved accuracy.
+## How to Use
 
-## How to Contribute
+1. **Image Analysis**: Utilize the images in the `images/` folder for testing the mental health classification model.
 
-We welcome contributions from individuals passionate about mental health awareness. Whether you are a developer, designer, or have expertise in mental health, your input is valuable.
+2. **Survey**: Explore the `survey/` folder to understand the survey schema (`survey.pbl.schma`). You can customize and conduct surveys using PEBL.
+
+3. **Output**: Find the results of the mental health analysis in the `output/` folder, where CSV files contain classified emotions.
+
+## Contributions
+
+We welcome contributions from individuals passionate about mental health awareness. If you have ideas for improvement, additional features, or want to contribute to the survey questions, feel free to submit a pull request.
 
 ## Acknowledgments
 
-Thank you for joining us in this crucial initiative to raise awareness about mental health. Together, we can make a positive impact on the lives of those who may be struggling. If you have any questions or suggestions, feel free to reach out.
+Thank you for supporting mental health awareness through this project. Together, we can make a positive impact. If you have any questions or suggestions, feel free to reach out.
 
-Remember, your mental health matters!
+Remember, taking care of your mental health is important!
 
-*Note: The accuracy figure mentioned is based on our internal testing and evaluation processes.*
+*Note: The accuracy figures mentioned are based on our internal testing and evaluation processes.*
 
