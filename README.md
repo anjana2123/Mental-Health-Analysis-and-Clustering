@@ -21,12 +21,13 @@ classification model and surveys. Our goal is to raise awareness and offer suppo
 
 3. **Output**: Find the results of the mental health analysis in the `output/` folder, where CSV files contain classified emotions.
 
-## Contributions
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code, but please acknowledge the original source.
 
+## Contributions
 We welcome contributions from individuals passionate about mental health awareness. If you have ideas for improvement, additional features, or want to contribute to the survey questions, feel free to submit a pull request.
 
 ## Acknowledgments
-
 Thank you for supporting mental health awareness through this project. Together, we can make a positive impact. If you have any questions or suggestions, feel free to reach out.
 
 Remember, taking care of your mental health is important!
